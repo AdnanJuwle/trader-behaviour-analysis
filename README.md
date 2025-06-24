@@ -29,7 +29,7 @@ trader-behavior-analysis/
 ├── notebooks/
 │   └── analysis.ipynb               # Interactive EDA and exploratory modeling
 ├── reports/
-│   └── insights.md                  # Summary of key insights and observations
+│   └── #Contains obtained from EDA in .jpg format
 ├── run_analysis.py                  # Main script to execute the full pipeline
 ├── requirements.txt                 # Python dependencies
 ├── README.md
