@@ -61,7 +61,7 @@ trader-behavior-analysis/
 4. *(Optional)* Explore the Jupyter notebook:
 
    ```bash
-   jupyter notebook notebooks/analysis.ipynb
+   jupyter notebook main_pynb_notebook/analysis.ipynb
    ```
 
 ---
